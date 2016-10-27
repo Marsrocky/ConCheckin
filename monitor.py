@@ -1,3 +1,4 @@
+# Monitor who has come to check in
 import time
 import requests
 import json
@@ -13,10 +14,9 @@ dic = json.loads(text)
 for i in range(len(dic)):
 	attendance.append(0)
 
-
 # Monitor
 # Current IPS data
-print 'Welcome to Monitor...'
+print 'Welcome to Server Monitor...'
 while True:
 	r = requests.get(url)
 	text = r.text
