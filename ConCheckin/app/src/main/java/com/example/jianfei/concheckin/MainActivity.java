@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
     Button btnReg;
     EditText name, email;
     String mac;
-    String url = "http://10.27.248.173:2222";
+    String url = "http://172.28.241.75:2222";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
