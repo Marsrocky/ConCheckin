@@ -28,6 +28,7 @@ while True:
 			if templocation == location[i]:
 				pass
 			else:
+				#Location is changed so update and print.
 				print guest[i]['name'], 'has come to room', templocation
 				location[i] = templocation
 		finally:
