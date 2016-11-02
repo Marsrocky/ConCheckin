@@ -1,1 +1,1 @@
-[{"mac": "00:00:00:00:00:01", "name": "test", "email": "test"}, {"mac": "14:1A:A3:8F:E3:20", "name": "Jiangsu", "email": "jiangsu@gmail.com"}]
+[{"mac": "00:00:00:00:00:01", "name": "test", "email": "test"}, {"mac": "14:1A:A3:8F:E3:20", "name": "jianfei", "email": "jianfei@ntu.edu.sg"}]
